@@ -32,7 +32,7 @@ To set up and run the application in local server, follow the steps below:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shafiqulsazu/djangoproject.git
+   https://github.com/MD-ABU-SHIHAB/project
    ```
 2. Navigate to the project directory:
    ```sh
